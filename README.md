@@ -29,9 +29,9 @@ The project follows a complete data science workflow: exploratory data analysis,
 
 ## Why Random Forest? 🤔
 
-**Question:** Why was Random Forest chosen as the final model among all the classifiers implemented?
+Why was Random Forest chosen as the final model among all the classifiers implemented?
 
-**Answer:** 💡 The Random Forest classifier was selected as the final model for several compelling reasons:
+💡 The Random Forest classifier was selected as the final model for several compelling reasons:
 
 1. **Superior Performance**: It demonstrated the highest accuracy (~99%) and best balance between precision and recall, crucial for fraud detection where both false positives and false negatives have significant consequences.
 
